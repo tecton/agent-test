@@ -34,16 +34,13 @@
         {
             "botId": "${{BOT_ID}}",
             "scopes": [
-                "copilot",
-                "personal",
-                "team"
+                "personal"
             ],
             "supportsFiles": false,
             "isNotificationOnly": false,
             "commandLists": [
                 {
                     "scopes": [
-                        "copilot",
                         "personal"
                     ],
                     "commands": [

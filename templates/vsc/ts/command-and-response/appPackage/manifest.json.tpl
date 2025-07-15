@@ -26,18 +26,14 @@
         {
             "botId": "${{BOT_ID}}",
             "scopes": [
-                "personal",
-                "team",
-                "groupChat"
+                "personal"
             ],
             "supportsFiles": false,
             "isNotificationOnly": false,
             "commandLists": [
                 {
                     "scopes": [
-                        "personal",
-                        "team",
-                        "groupChat"
+                        "personal"
                     ],
                     "commands": [
                         {
