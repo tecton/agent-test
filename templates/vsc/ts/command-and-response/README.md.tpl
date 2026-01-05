@@ -116,7 +116,7 @@ To respond with an Adaptive Card, define your card in its JSON format. Create a 
     }
   ],
   "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
-  "version": "1.4"
+  "version": "1.6"
 }
 ```
 
